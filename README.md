@@ -79,7 +79,8 @@ Teaching middle school students (5 students). Smart City project
 
 
 
-[Download Resume in PDF format](./cv.pdf)
+[Download Resume in PDF format](./assets/cv.pdf) or [PNG format](./assets/cv.png)
+
 <!-- 
 ### Hi there 👋
 This is my [CV](https://github.com/yakhyo/yakhyo/blob/main/cv_yakhyo_valikhujaev.pdf)
