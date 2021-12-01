@@ -3,7 +3,7 @@
 ---
 
 ### AI Research Engineer
-[GitHub](https://github.com/yakhyo) ▪ [LinkedIn](https://www.linkedin.com/in/y-valikhujaev/) ▪ [StackOverflow](https://stackoverflow.com/users/14815986/yakhyo) 
+[![](./icons/icons8-github.svg)](https://github.com/yakhyo)  [![](./icons/icons8-linkedin.svg)](https://www.linkedin.com/in/y-valikhujaev/) [![](./icons/icons8-stack-overflow.svg)](https://stackoverflow.com/users/14815986/yakhyo) 
 
 ## EXPERIENCE
 
