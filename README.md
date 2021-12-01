@@ -48,7 +48,7 @@ Teaching middle school students (5 students). Smart City project
  - Studied C++/Java/PHP/JavaScript, Algorithms, Dynamic Programming, Web Programming and etc.
  - Projects:
    - Desktop UI for English language learners with a dictionary more than 25k words using C++ Builder 6 and Embarcadero C++.
-   - Website: Car Sale, Concrete company web page design.
+   - Website: Car Sale, Concrete companies web page design.
    - Air Conditioning system in green houses using Embedded device (Arduino Uno).
  
 
