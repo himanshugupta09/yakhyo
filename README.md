@@ -3,7 +3,7 @@
 
 
 ### AI Research Engineer
-[![](./icons/icons8-github.svg)](https://github.com/yakhyo) &nbsp; [![](./icons/icons8-linkedin.svg)](https://www.linkedin.com/in/y-valikhujaev/) &nbsp; [![](./icons/icons8-stack-overflow.svg)](https://stackoverflow.com/users/14815986/yakhyo) &nbsp; [![](./icons/icons8-youtube.svg)](https://youtube.com/codeuz) &nbsp; [![](./icons/icons8-medium.svg)](https://yakhyo.medium.com/) 
+[![](./icons/icons8-github.svg)](https://github.com/yakhyo) &nbsp; [![](./icons/icons8-linkedin.svg)](https://www.linkedin.com/in/y-valikhujaev/) &nbsp; [![](./icons/icons8-stack-overflow.svg)](https://stackoverflow.com/users/14815986/yakhyo) &nbsp; [![](./icons/icons8-youtube.svg)](https://youtube.com/codeuz) &nbsp; [![](./icons/icons8-medium.svg)](https://yakhyo.medium.com/) &nbsp; [![](./icons/icons8-twitter.svg)](https://twitter.com/y_valikhujaev) &nbsp; [![](./icons/icons8-facebook.svg)](https://www.facebook.com/yvalikhujaev/) &nbsp; [![](./icons/icons8-telegram.svg)](https://t.me/yakhyokhuja)
 
 ## EXPERIENCE
 ### Divus Co, Ltd | 2020.11.18 - present
@@ -73,7 +73,9 @@ Teaching middle school students (5 students). Smart City project
  - Strong planning: Organizing and monitoring abilities.
 
 ## INTERESTS AND ACTIVITIES
- - 
+ - Machine Learning / Deep Learning / Computer Vision / General AI / Cyber Security
+ - Research & Development
+ - Hiking & Travelling
 
 
 
