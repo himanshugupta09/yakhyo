@@ -38,8 +38,39 @@ Teaching middle school students (5 students). Smart City project
 
 ## EDUCATION
 ### MS in Computer Engineering, Gachon University | 2018.09.01 - 2021.02.24
+ - GPA: 4.01 / 4.5
+ - Best paper award from **FISK** (Fire Investigation Society of Korea).
+ - Best presentation award from **ISIS2019 & ICBAKE2019**.
+ - Thesis: Automatic fire and smoke detection method for surveillance systems based on dilated CNNs
 
+### BS in Computer Engineering, Gachon University | 2014.09.01 - 2018.06.12
+ - GPA: 85 / 100
+ - Studied C++/Java/PHP/JavaScript, Algorithms, Dynamic Programming, Web Programming and etc.
+ - Projects:
+   - Desktop UI for English language learners with a dictionary more than 25k words using C++ Builder 6 and Embarcadero C++.
+   - Website: Car Sale, Concrete company web page design.
+   - Air Conditioning system in green houses using Embedded device (Arduino Uno).
+ 
 
+## SKILLS
+### Technical skills:
+ - Programming Languages: Python/C++/Java
+ - Technologies: PyTorch, Tensorflow, Keras
+ - Data Analysis: pandas, matplotlib, seaborn
+ - Coding: Problem-solving, Competitive programming
+ - Linear Algebra Statistics, Calculus, Discrete Mathematics
+### Languages:
+ - English - Professional working proficiency
+ - Korean - Limited working proficiency
+ - Russian - Elementary working proficiency
+ - Uzbek - Native
+ 
+
+## PERSONAL QUALITIES:
+- Determined and decisive: Uses initiative to develop effective solutions to problems.
+- Reliable and Dependable: High personal standards and attention to deal.
+- Emotionally mature: Calming and positive temperament, tolerant and understanding.
+- Strong planning: Organizing and monitoring abilities.
 
 
 
