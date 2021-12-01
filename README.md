@@ -67,15 +67,17 @@ Teaching middle school students (5 students). Smart City project
  
 
 ## PERSONAL QUALITIES:
-- Determined and decisive: Uses initiative to develop effective solutions to problems.
-- Reliable and Dependable: High personal standards and attention to deal.
-- Emotionally mature: Calming and positive temperament, tolerant and understanding.
-- Strong planning: Organizing and monitoring abilities.
+ - Determined and decisive: Uses initiative to develop effective solutions to problems.
+ - Reliable and Dependable: High personal standards and attention to deal.
+ - Emotionally mature: Calming and positive temperament, tolerant and understanding.
+ - Strong planning: Organizing and monitoring abilities.
+
+## INTERESTS AND ACTIVITIES
+ - 
 
 
 
-
-
+[Download Resume in PDF format](./cv.pdf)
 <!-- 
 ### Hi there 👋
 This is my [CV](https://github.com/yakhyo/yakhyo/blob/main/cv_yakhyo_valikhujaev.pdf)
