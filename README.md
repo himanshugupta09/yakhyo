@@ -43,7 +43,7 @@ Teaching middle school students (5 students). Smart City project
  - Best presentation award from **ISIS2019 & ICBAKE2019**.
  - Thesis: Automatic fire and smoke detection method for surveillance systems based on dilated CNNs
 
-### BS in Computer Engineering, Gachon University | 2014.09.01 - 2018.06.12
+### BS in Computer Engineering, TUIT | 2014.09.01 - 2018.06.12
  - GPA: 85 / 100
  - Studied C++/Java/PHP/JavaScript, Algorithms, Dynamic Programming, Web Programming and etc.
  - Projects:
