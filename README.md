@@ -1,13 +1,13 @@
 # Valikhujaev Yakhyokhuja
 
----
+
 
 ### AI Research Engineer
-[![](./icons/icons8-github.svg)](https://github.com/yakhyo)  [![](./icons/icons8-linkedin.svg)](https://www.linkedin.com/in/y-valikhujaev/) [![](./icons/icons8-stack-overflow.svg)](https://stackoverflow.com/users/14815986/yakhyo) 
+[![](./icons/icons8-github.svg)](https://github.com/yakhyo) &nbsp; [![](./icons/icons8-linkedin.svg)](https://www.linkedin.com/in/y-valikhujaev/) &nbsp; [![](./icons/icons8-stack-overflow.svg)](https://stackoverflow.com/users/14815986/yakhyo) &nbsp; [![](./icons/icons8-youtube.svg)](https://youtube.com/codeuz) 
 
 ## EXPERIENCE
 
----
+
 
 
 
