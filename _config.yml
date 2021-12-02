@@ -2,6 +2,11 @@ title: Yakhyo's Page
 description: Hi🖐 Glad to see you here🙂
 logo: assets/logo.png
 show_downloads: true
+minima:
+  social_links:
+    twitter: jekyllrb
+    github: jekyll
+
 preferences:
   - type: dropdown
     name: language
