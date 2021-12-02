@@ -1,4 +1,14 @@
-title: Yakhyo's Page.
+title: Yakhyo's Page
 logo: assets/logo.png
-show_downloads: true
+show_downloads: false
+preferences:
+  - type: dropdown
+    name: language
+    label: Language
+    description: Choose your preferred language.
+    options:
+      - label: English
+        value: en
+      - label: Uzbek
+        value: uz
 theme: jekyll-theme-minimal
