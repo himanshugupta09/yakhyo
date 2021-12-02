@@ -1,24 +1,6 @@
 title: Yakhyo's Page
-description: Hi🖐 Glad to see you here🙂
+description: Hi 🖐 Glad to see you here 🙂
 logo: assets/logo.png
-show_downloads: true
-minima:
-  social_links:
-    twitter: jekyllrb
-    github: jekyll
+show_downloads: false
 
-preferences:
-  - type: dropdown
-    name: language
-    label: Language
-    description: Choose your preferred language.
-    options:
-      - label: English
-        value: en
-      - label: Uzbek
-        value: uz
-#theme: jekyll-theme-minimal
-theme: minima
-plugins:
- - jekyll-feed
- - jekyll-seo-tag
+theme: jekyll-theme-minimal
