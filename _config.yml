@@ -1,6 +1,5 @@
 title: Yakhyo's Page
 description: BS and MS in Computer Engineering 💻
 logo: assets/logo.png
-show_downloads: false
-
+show_downloads: true
 theme: jekyll-theme-minimal

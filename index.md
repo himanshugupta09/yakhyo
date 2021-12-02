@@ -9,7 +9,7 @@
 ### Divus Co, Ltd | 2020.11.18 - present
 ### AI Research Engineer
  - ANPR (Automatic Number Plate Recognition):
-   - Object detection (YOLOv5s-l), Image Generation ([Generating synthetic number plate with YOLO format labels](https://github.com/yakhyo/Korean-License-Plate-Generator))
+   - Object detection (YOLOv5s-l), Image Generation ([Generating synthetic number plate images with YOLO format labels](https://github.com/yakhyo/Korean-License-Plate-Generator))
    - Building/Training/Inference. Deployment on Mobile/WEB (Rest APIs)
    - Integrating multi-stage models for Deployment
  - OCR
