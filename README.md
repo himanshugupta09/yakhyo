@@ -2,7 +2,7 @@
 [![](./icons/icons8-github.svg)](https://github.com/yakhyo) &nbsp; [![](./icons/icons8-linkedin.svg)](https://www.linkedin.com/in/y-valikhujaev/) &nbsp; [![](./icons/icons8-stack-overflow.svg)](https://stackoverflow.com/users/14815986/yakhyo) &nbsp; [![](./icons/icons8-youtube.svg)](https://youtube.com/codeuz) &nbsp; [![](./icons/icons8-medium.svg)](https://yakhyo.medium.com/) &nbsp; [![](./icons/icons8-twitter.svg)](https://twitter.com/y_valikhujaev) &nbsp; [![](./icons/icons8-facebook.svg)](https://www.facebook.com/yvalikhujaev/) &nbsp; [![](./icons/icons8-telegram.svg)](https://t.me/yakhyokhuja)
 
  - [yakhyo.github.io](https://yakhyo.github.io/yakhyo/)
- - [readme](./README.md)
+ - [readme](./resume.md)
 <!-- 
 **yakhyo/yakhyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
