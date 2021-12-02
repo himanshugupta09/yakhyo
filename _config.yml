@@ -1,4 +1,5 @@
-title: Welcome! I am glad to see you here.
-logo: assets/logo.jpg
+title: Welcome! This is Yakhyo's Page.
+logo: assets/logo.png
 description: This is my CV/Resume webpage. You can download my CV/Resume in .pdf format using the link at the bottom of the page
+show_downloads: true
 theme: jekyll-theme-minimal
