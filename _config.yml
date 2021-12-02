@@ -1,6 +1,7 @@
 title: Yakhyo's Page
+description: Hi🖐 Glad to see you here🙂
 logo: assets/logo.png
-show_downloads: false
+show_downloads: true
 preferences:
   - type: dropdown
     name: language
