@@ -83,7 +83,6 @@ Teaching middle school students (5 students). Smart City project
 
 <!-- 
 ### Hi there 👋
-This is my [CV](https://github.com/yakhyo/yakhyo/blob/main/cv_yakhyo_valikhujaev.pdf)
 
 **yakhyo/yakhyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
