@@ -81,8 +81,6 @@ Teaching middle school students (5 students). Smart City project
 
 [Download Resume in PDF format](./assets/cv.pdf)
 
-[Linux commands➡](./posts/linux.md)
-
 <!-- 
 ### Hi there 👋
 
