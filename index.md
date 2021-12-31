@@ -59,6 +59,7 @@ Teaching middle school students (5 students). Smart City project
  - Data Analysis: pandas, matplotlib, seaborn
  - Coding: Problem-solving, Competitive programming
  - Linear Algebra Statistics, Calculus, Discrete Mathematics
+
 ### Languages:
  - English - Professional working proficiency
  - Korean - Limited working proficiency
