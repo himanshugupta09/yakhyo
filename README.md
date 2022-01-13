@@ -4,7 +4,7 @@
 &nbsp;[![](./icons/icons8-twitter.svg)](https://twitter.com/y_valikhujaev) &nbsp;[![](./icons/icons8-facebook.svg)](https://www.facebook.com/yvalikhujaev/) &nbsp;[![](./icons/icons8-telegram.svg)](https://t.me/yakhyokhuja)
 -->
 
- - These are my [web](https://yakhyo.github.io/yakhyo/) and [md](./resume.md) resume.
+ - This my resume [homepage](https://yakhyo.github.io/yakhyo/) and [markdown](./resume.md) resume.
  - Sometimes I write [blogs](https://yakhyo.medium.com/) and make [videos](https://www.youtube.com/codeuz).
 <!-- 
 **yakhyo/yakhyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
