@@ -80,7 +80,3 @@ Teaching middle school students (5 students). Smart City project
  - Machine Learning / Deep Learning / Computer Vision / General AI / Cyber Security
  - Research & Development
  - Hiking & Travelling
-
-
-
-[Download this in PDF](./assets/cv.pdf)
