@@ -13,6 +13,7 @@
 ### AI Research Engineer
  - ANPR (Automatic Number Plate Recognition):
    - Object detection (YOLOv5s-l), Image Generation ([Generating synthetic number plate images with YOLO format labels](https://github.com/yakhyo/Korean-License-Plate-Generator))
+   - Damage detection using YOLOv5s. Deployment on Android app.
    - Building/Training/Inference. Deployment on Mobile/WEB (Rest APIs)
    - Integrating multi-stage models for Deployment
  - OCR
