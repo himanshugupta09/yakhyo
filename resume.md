@@ -83,4 +83,4 @@ Teaching middle school students (5 students). Smart City project
 
 
 
-[Download Resume in PDF format](./assets/cv.pdf)
+[Download this in PDF](./assets/cv.pdf)
