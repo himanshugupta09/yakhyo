@@ -86,7 +86,7 @@ Teaching middle school students (5 students). Smart City project
 
 
 
-Download in [PDF](./assets/cv_github.pdf) | [PNG](./assets/cv_github.png) format.
+Download in [PDF](./assets/cv_github.pdf) & [PNG](./assets/cv_github.png) format.
 
 <!-- 
 ### Hi there 👋
