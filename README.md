@@ -3,8 +3,8 @@
 &nbsp;[![](./icons/icons8-youtube.svg)](https://youtube.com/codeuz) &nbsp;[![](./icons/icons8-medium.svg)](https://yakhyo.medium.com/) 
 &nbsp;[![](./icons/icons8-twitter.svg)](https://twitter.com/y_valikhujaev) &nbsp;[![](./icons/icons8-facebook.svg)](https://www.facebook.com/yvalikhujaev/) &nbsp;[![](./icons/icons8-telegram.svg)](https://t.me/yakhyokhuja)
 -->
-
- - This my resume [homepage](https://yakhyo.github.io/yakhyo/) and [markdown](./resume.md) resume.
+ - This is my [resume](./resume.md).
+<!--  - This my resume [homepage](https://yakhyo.github.io/yakhyo/) and [markdown](./resume.md) resume. -->
 <!-- 
 - Sometimes I write [blogs](https://yakhyo.medium.com/) and make [videos](https://www.youtube.com/codeuz).
 
