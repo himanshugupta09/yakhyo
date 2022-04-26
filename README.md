@@ -1,6 +1,6 @@
 ### Hi there 👋
-<!-- [![](./icons/icons8-github.svg)](https://github.com/yakhyo) &nbsp;[![](./icons/icons8-linkedin.svg)](https://www.linkedin.com/in/y-valikhujaev/) &nbsp;[![](./icons/icons8-google-scholar.svg)](https://scholar.google.com/citations?user=I66QbJIAAAAJ&hl=en) &nbsp;[![](./icons/icons8-stack-overflow.svg)](https://stackoverflow.com/users/14815986/yakhyo) 
-&nbsp;[![](./icons/icons8-youtube.svg)](https://youtube.com/codeuz) &nbsp;[![](./icons/icons8-medium.svg)](https://yakhyo.medium.com/) 
+[![](./icons/icons8-github.svg)](https://github.com/yakhyo) &nbsp;[![](./icons/icons8-linkedin.svg)](https://www.linkedin.com/in/y-valikhujaev/) &nbsp;[![](./icons/icons8-google-scholar.svg)](https://scholar.google.com/citations?user=I66QbJIAAAAJ&hl=en) &nbsp;[![](./icons/icons8-stack-overflow.svg)](https://stackoverflow.com/users/14815986/yakhyo)  &nbsp;[![](./icons/icons8-youtube.svg)](https://youtube.com/codeuz) 
+<!--  &nbsp;[![](./icons/icons8-medium.svg)](https://yakhyo.medium.com/) 
 &nbsp;[![](./icons/icons8-twitter.svg)](https://twitter.com/y_valikhujaev) &nbsp;[![](./icons/icons8-facebook.svg)](https://www.facebook.com/yvalikhujaev/) &nbsp;[![](./icons/icons8-telegram.svg)](https://t.me/yakhyokhuja)
  -->
  This is my markdown [**resume**](./assets/resum_for_pdf.md).
