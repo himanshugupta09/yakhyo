@@ -1,9 +1,11 @@
 ### Hi there 👋
-[![](./icons/icons8-github.svg)](https://github.com/yakhyo) &nbsp;[![](./icons/icons8-linkedin.svg)](https://www.linkedin.com/in/y-valikhujaev/) &nbsp;[![](./icons/icons8-google-scholar.svg)](https://scholar.google.com/citations?user=I66QbJIAAAAJ&hl=en) &nbsp;[![](./icons/icons8-stack-overflow.svg)](https://stackoverflow.com/users/14815986/yakhyo)  &nbsp;[![](./icons/icons8-youtube.svg)](https://youtube.com/codeuz) 
+[![](./icons/icons8-github.svg)](https://github.com/yakhyo) &nbsp;[![](./icons/icons8-linkedin.svg)](https://www.linkedin.com/in/y-valikhujaev/) &nbsp;[![](./icons/icons8-google-scholar.svg)](https://scholar.google.com/citations?user=I66QbJIAAAAJ&hl=en) &nbsp;[![](./icons/icons8-stack-overflow.svg)](https://stackoverflow.com/users/14815986/yakhyo)  &nbsp;[![](./icons/icons8-youtube.svg)](https://youtube.com/codeuz)
+
+📄 Resume: [markdown](./assets/resum_for_pdf.md) | [online](https://yakhyo.github.io/yakhyo/) | [pdf](https://yakhyo.github.io/yakhyo/assets/resume.pdf)
 <!--  &nbsp;[![](./icons/icons8-medium.svg)](https://yakhyo.medium.com/) 
 &nbsp;[![](./icons/icons8-twitter.svg)](https://twitter.com/y_valikhujaev) &nbsp;[![](./icons/icons8-facebook.svg)](https://www.facebook.com/yvalikhujaev/) &nbsp;[![](./icons/icons8-telegram.svg)](https://t.me/yakhyokhuja)
  -->
- This is my markdown [**resume**](./assets/resum_for_pdf.md).
+<!--  This is my markdown [**resume**](./assets/resum_for_pdf.md). -->
 <!--  - This my resume [homepage](https://yakhyo.github.io/yakhyo/) and [markdown](./resume.md) resume. -->
 <!-- 
 - Sometimes I write [blogs](https://yakhyo.medium.com/) and make [videos](https://www.youtube.com/codeuz).
