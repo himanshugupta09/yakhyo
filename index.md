@@ -1,6 +1,6 @@
 # Valikhujaev Yakhyokhuja
 
-
+[resume](./resume.md)
 
 ### AI Research Engineer
 [![](./icons/icons8-github.svg)](https://github.com/yakhyo) &nbsp;[![](./icons/icons8-linkedin.svg)](https://www.linkedin.com/in/y-valikhujaev/) &nbsp;[![](./icons/icons8-google-scholar.svg)](https://scholar.google.com/citations?user=I66QbJIAAAAJ&hl=en) &nbsp;[![](./icons/icons8-stack-overflow.svg)](https://stackoverflow.com/users/14815986/yakhyo) 
