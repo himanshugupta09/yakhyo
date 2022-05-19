@@ -3,7 +3,7 @@
 
 ### AI Research Engineer
 
-[GitHub](https://github.com/yakhyo) | [LinkedIn](https://www.linkedin.com/in/y-valikhujaev/) | [Google Scholar](https://scholar.google.com/citations?user=I66QbJIAAAAJ&hl=en) | [Stack Overflow](https://stackoverflow.com/users/14815986/yakhyo)
+[GitHub](https://github.com/yakhyo) | [LinkedIn](https://www.linkedin.com/in/y-valikhujaev/) | [Google Scholar](https://scholar.google.com/citations?user=I66QbJIAAAAJ&hl=en) | [Stack Overflow](https://stackoverflow.com/users/14815986/yakhyo) | Email: yakhyo9696@gmail.com | Phone: 010 9363 7088
 
 More than 2 years experience in ML/DL tasks including Object Recognition, Detection, Generative Adversarial Networks, Model Optimization and Implementing SOTA models. A big fan of ML/DL related high-ranking Computer Vision Conferences.
 
