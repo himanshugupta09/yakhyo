@@ -3,7 +3,7 @@
 
 [GitHub](https://github.com/yakhyo) | [LinkedIn](https://www.linkedin.com/in/y-valikhujaev/) | [Google Scholar](https://scholar.google.com/citations?user=I66QbJIAAAAJ&hl=en) | [StackOverflow](https://stackoverflow.com/users/14815986/yakhyo)  | [YouTube](https://youtube.com/codeuz)
 
-📄 Resume: [markdown](./assets/resume.md) | [online](https://yakhyo.github.io/yakhyo/) | [pdf](https://yakhyo.github.io/yakhyo/assets/cv_v-yakhyokhuja.pdf)
+📄 Resume: [markdown](./assets/resume.md) | [online](https://yakhyo.github.io/yakhyo/) | [pdf](https://yakhyo.github.io/yakhyo/assets/cv_yakhyokhuja[20220606].pdf)
 <!--  &nbsp;[![](./icons/icons8-medium.svg)](https://yakhyo.medium.com/) 
 &nbsp;[![](./icons/icons8-twitter.svg)](https://twitter.com/y_valikhujaev) &nbsp;[![](./icons/icons8-facebook.svg)](https://www.facebook.com/yvalikhujaev/) &nbsp;[![](./icons/icons8-telegram.svg)](https://t.me/yakhyokhuja)
  -->
