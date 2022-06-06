@@ -84,4 +84,4 @@ More than 2 years experience in ML/DL tasks including Object Recognition, Detect
  - Automatic Fire and Smoke Detection System for Open Street CCTV Systems in Smart City Platforms, 2019.
 
 
-Download this in **.pdf** from [here](./assets/cv_yakhyokhuja_valikhujaev.pdf)
+Download this in **.pdf** from [here](./assets/cv_yakhyokhuja[20220606].pdf)
