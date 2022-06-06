@@ -14,7 +14,7 @@ More than 2 years experience in ML/DL tasks including Object Recognition, Detect
 ### AI Research Engineer
 
  - Optical Character Recognition.
-   - Scene Text Recognition customized version of [Deep Text Recognition](https://github.com/yakhyo/ClovaAI-Deep-Text-Recognition) method(STN-ResNet-BiLSTM-Attn)
+   - Scene Text Recognition customized version of [Deep Text Recognition](https://github.com/yakhyo/ClovaAI-Deep-Text-Recognition) method(STN-ResNet-BiLSTM-Attn).
    - Scene Text Detection using [CRAFT](https://github.com/yakhyo/ClovaAI-CRAFT) text detection method(U-net based) and Object Detection Method(Customized YOLOv5).
  - Automatic Number Plate Recognition(**ANPR**) using Object Detection Methods(Customized YOLOv5):
  - Number plate generator with YOLO format labels([Korean Number Plate Generator](https://github.com/yakhyo/Korean-License-Plate-Generator))
