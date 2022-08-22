@@ -74,7 +74,7 @@ More than 2 years experience in ML/DL tasks including Object Recognition, Detect
 
  - Python: NumPy, Scikit-learn, PIL, Matplotlib, Pandas, OpenCV, PyTorch, TensorFlow, Keras.
  - Java: Tensorflow Lite and PyTorch Inference.
- - PyTorch: MobileNetV1/V2/V3, DarkNet53, YOLOv1/YOLOv3/YOLOv5, DeepLabV3, EAST/CRAFT and Deep Text Detection and etc are implemented and uploaded to GitHub.
+ - PyTorch: MobileNetV1/V2/V3, DarkNet53, YOLOv1/YOLOv3/YOLOv5, DeepLabV3, EAST/CRAFT, Deep Text Detection, Video Recognition models and etc are implemented and uploaded to GitHub.
  - Version Control and Team Collaboration(Git/GitHub).
  - Coding: Problem-solving, Competitive programming.
  - Experience using Docker and Multi-GPUs(Training/Testing/Deployment).
