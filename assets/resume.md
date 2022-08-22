@@ -9,7 +9,16 @@ More than 2 years experience in ML/DL tasks including Object Recognition, Detect
 
 ## EXPERIENCE
 
-### D-Meta Co | 2020.11.18 - present
+### Pyler Co. | 2022.07.01 - Present
+
+### Machine Learning Engineer
+
+ - Developing a video recognition model to help business owners to advertise their products on youtube videos.
+   - Conducted experiments on building datapipeline/training/evaluating the model and QA on the model.
+   - Implemented SOTA models (R(2+1)D, MViT_v1, MViT_v2) to deliver better generalizable model.
+
+
+### D-Meta Co. | 2020.11.18 - 2022.06.30
 
 ### AI Research Engineer
 
